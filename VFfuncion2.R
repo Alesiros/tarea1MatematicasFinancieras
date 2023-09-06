@@ -1,5 +1,4 @@
 VFfuncion2=function(umbral, niter){
-  
   # Creamos los objetos con los datos de entrada del problema:
   VA=1 # Valor actual de un peso
   i=1 # Tasa de interés anualizada de 100% (i=1)
