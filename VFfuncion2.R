@@ -1,4 +1,4 @@
-VFfuncion=function(umbral, niter){
+VFfuncion2=function(umbral, niter){
   
   # Creamos los objetos con los datos de entrada del problema:
   VA=1 # Valor actual de un peso
